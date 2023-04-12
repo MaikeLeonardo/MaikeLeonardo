@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Maike Leonardo 👋
 
-- 🔭 Hoje trabalho com Back-End
+- 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando Javascript e Angular
 - 😄 Pronouns: ele/dele
 
